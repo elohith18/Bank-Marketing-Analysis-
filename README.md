@@ -1,2 +1,28 @@
-# Bank-Marketing-Analysis-
-End-to-end bank marketing analysis using Python and Power BI. Performed data cleaning, EDA, customer segmentation, and built a logistic regression model focusing on precision. Delivered business insights with visualizations and a detailed analytical report.
+# Bank Marketing Campaign Analysis
+
+## 📌 Project Overview
+This project analyzes bank marketing campaign data to understand customer behavior and predict term deposit subscription. The objective is to improve marketing effectiveness using data-driven insights.
+
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Power BI
+- Machine Learning (Logistic Regression)
+
+## 🔍 Key Analysis
+- Customer segmentation by job, age, and education
+- Campaign performance and call frequency impact
+- Economic indicators affecting subscription rates
+
+## 📈 Model Performance
+- Precision-focused Logistic Regression model to identify potential subscribers
+
+## 📊 Visualizations
+- Subscription rate by job role
+- Month-wise campaign effectiveness
+- Interactive Power BI dashboard
+
+## 📄 Report
+Detailed analysis and insights are documented in the project report.
+
+## 🚀 Business Impact
+The analysis helps optimize customer targeting, reduce ineffective campaign calls, and improve overall conversion rate.

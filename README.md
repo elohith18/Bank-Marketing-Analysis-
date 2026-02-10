@@ -21,6 +21,11 @@ This project analyzes bank marketing campaign data to understand customer behavi
 - Month-wise campaign effectiveness
 - Interactive Power BI dashboard
 
+## Note
+This project was completed independently using a public dataset during my internship at XYZ Company. 
+It does not involve any proprietary or confidential company data.
+
+
 ## 📄 Report
 Detailed analysis and insights are documented in the project report.
 
